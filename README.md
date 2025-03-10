@@ -1,7 +1,7 @@
 # Domain-Specific FAQ Chatbot with Knowledge Graph Integration
 
 ## Project Overview
-This project is a **Finance Domain-Specific Conversational Chatbot**eneration (RAG) to provide accurate and contextual responses to financial queries. The chatbot is designed to assist users with financial queries related to loans, credit scores, debt management, legal transparency, and financial literacy. The chatbot integrates **Google Gemini** as a fallback LLM for handling complex queries.
+This project is a **Finance Domain-Specific Conversational Chatbot** that integrates MeTTa, Knowledge Graphs, and Retrieval-Augmented Generation (RAG) to provide accurate and contextual responses to financial queries. The chatbot is designed to assist users with financial queries related to loans, credit scores, debt management, legal transparency, and financial literacy. The chatbot integrates **Google Gemini** as a fallback LLM for handling complex queries.
 
 ### Key Features:
 1. **Knowledge Graph Storage in MeTTa**: Structured financial data is stored and queried directly within MeTTa.
